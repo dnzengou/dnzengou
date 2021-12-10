@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I'm a engineer by education, self-taught entry-level web developer (front and back-end), data analysis and machine learning practitioner.
+- 🌱 I'm a engineer by education, self-taught entry-level web developer (front/back-end), data and machine learning practitioner.
 - ❤️ I love learning about new technologies, among which blockchain, quantum computing, artificial intelligence or augmented reality.
 - 🔭 I build digital stuff, train people and support entrepreneurs along their lifecycle.
 - 🌍 Born in Africa, live in Europe, want to travel the world. 
