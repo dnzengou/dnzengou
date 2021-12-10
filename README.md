@@ -5,9 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnzengou&repo=github-readme-stats&show_owner=true)](https://github.com/dnzengou/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnzengou&exclude_repo=github-readme-stats,dnzengou.github.io)](https://github.com/dnzengou/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnzengou&layout=compact)](https://github.com/dnzengou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnzengou&layout=compact&exclude_repo=github-readme-stats,dnzengou.github.io)](https://github.com/dnzengou/github-readme-stats)
 
 
 
