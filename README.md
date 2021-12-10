@@ -5,6 +5,8 @@
 - ❤️ I love learning about new technologies, among which blockchain, quantum computing, artificial intelligence or augmented reality.
 - 🔭 I build digital stuff, train people and support entrepreneurs along their lifecycle.
 - 🌍 Born in Africa, live in Europe, want to travel the world. 
+<br>
+- 💬 Ask me about anything [here](https://github.com/dnzengou/dnzengou/issues)
 
 <hr>
 
@@ -30,9 +32,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
-
-- 💬 Ask me about anything [here](https://github.com/dnzengou/dnzengou/issues)
 
 
 
