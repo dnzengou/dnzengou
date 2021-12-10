@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=dnzengou) <br />
-[![Desire's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnzengou&count_private=true&show_icons=true&theme=buefy&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Desire's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnzengou&count_private=true&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnzengou&repo=github-readme-stats&show_owner=true)](https://github.com/dnzengou/github-readme-stats)
 
