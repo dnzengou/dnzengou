@@ -6,7 +6,7 @@
 - 🔭 I build digital stuff, train people and support entrepreneurs along their lifecycle.
 - 🌍 Born in Africa, live in Europe, want to travel the world. 
 <br>
-- 💬 Ask me about anything [here](https://github.com/dnzengou/dnzengou/issues)
+- 💬 Ask me about anything ![here](https://github.com/dnzengou/dnzengou/issues)
 
 <hr>
 
